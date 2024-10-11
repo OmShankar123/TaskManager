@@ -1,10 +1,13 @@
 // src/theme/colors.js
 
 const colors = {
-  primary: '#3498db',   // Primary color (blue)
-  secondary: '#2ecc71', // Secondary color (green)
-  background: '#ecf0f1', // Light background
-  text: '#2c3e50',      // Text color
+  primary: '#1A1A1A',        // Primary color (dark gray)
+  secondary: '#ff9900',      // Secondary color (orange)
+  text: '#364041',           // Text color
+  placeholder: '#ecf0f1',    // Placeholder text color (light gray)
+  inputBackground: '#ffffff', // Input background color (white)
+  label:'#95a5a6'
+  
 };
 
 export default colors;
